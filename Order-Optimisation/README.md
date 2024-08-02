@@ -14,10 +14,6 @@
 ## Improvements & Collaboration
 If you'd like to get involved and make some suggestions or code changes please get in touch :)
 
-## Current Issues
-
-1. The success rate is calculating incorrectly for vendors with no neighbour requests or distance requests, which is causing an error in calculating the optimal score.
-
 ## Future Developments
 
 1. Wall and Isle table categories and shapes.
